@@ -1,0 +1,4 @@
+bottle waste
+glass
+book
+paper
